@@ -16,3 +16,5 @@ Refer to [openscore](http://openscore.io) website for more information.
 
 # Prerequisite
 Node.js installed.
+
+score-cli page in [NPM repository](https://www.npmjs.com/package/score-cli).
