@@ -8,4 +8,7 @@ Node installed.
 Open command line and execute the following:
 npm install -g score-cli
 score
+1. npm install -g score-cli
+
+2. score
 
