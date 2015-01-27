@@ -2,7 +2,7 @@
 The score command line interface.
 
 # Prerequisite
-NodeJs installed.
+Node.js installed.
 
 # How to use
 Open command line and execute the following:
