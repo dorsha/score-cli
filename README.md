@@ -20,20 +20,9 @@ Node.js & Java installed.
 
 score-cli page in the [NPM repository](https://www.npmjs.com/package/score-cli).
 
-# Linux issues
-If you see permissions issues like:
+## Linux issues
+It might be needed to run npm like the following:
 
-```shell
-bash: /home/ubuntu/.nvm/v0.10.35/bin/score: Permission denied
-```
-
-```shell
-Error: EACCES
-```
-
-You should run:
 ```shell
 sudo npm install -g score-cli
-sudo chmod 777 score
-score
 ```
