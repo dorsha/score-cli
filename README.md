@@ -7,16 +7,10 @@ Install this globally and you'll have access to the `score` command anywhere on 
 npm install -g score-cli
 ```
 
-Now you can just use score anywhere:
+Now you can just use the `score` command anywhere
 
-<b>Windows</b>
 ```shell
 score
-```
-
-<b>Linux</b>
-```shell
-scoresh
 ```
 
 Refer to [openscore](http://openscore.io) website for more information.
@@ -25,3 +19,21 @@ Refer to [openscore](http://openscore.io) website for more information.
 Node.js & Java installed.
 
 score-cli page in the [NPM repository](https://www.npmjs.com/package/score-cli).
+
+# Linux issues
+If you see permissions issues like:
+
+```shell
+bash: /home/ubuntu/.nvm/v0.10.35/bin/score: Permission denied
+```
+
+```shell
+Error: EACCES
+```
+
+You should run:
+```shell
+sudo npm install -g score-cli
+sudo chmod 777 score
+score
+```
