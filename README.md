@@ -7,9 +7,15 @@ Install this globally and you'll have access to the `score` command anywhere on 
 npm install -g score-cli
 ```
 
-Now you can just use the `score` command anywhere
+Now you can just use score anywhere:
+<b>Windows</b>
 ```shell
 score
+```
+
+<b>Linux</b>
+```shell
+scoresh
 ```
 
 Refer to [openscore](http://openscore.io) website for more information.

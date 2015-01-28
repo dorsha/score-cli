@@ -20,7 +20,8 @@
     "openscore"
   ],
   "bin": {
-    "score": "score/slang/bin/slang"
+    "score": "score/slang/bin/slang.bat",
+	"scoresh": "score/slang/bin/slang"
   },
   "license": "Apache-2.0",
   "engines": {
