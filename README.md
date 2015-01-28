@@ -8,6 +8,7 @@ npm install -g score-cli
 ```
 
 Now you can just use score anywhere:
+
 <b>Windows</b>
 ```shell
 score
