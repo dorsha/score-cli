@@ -1,6 +1,6 @@
 {
   "name": "score-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The score command line interface.",
   "author": "Doron Sharon",
   "homepage": "http://openscore.io",
