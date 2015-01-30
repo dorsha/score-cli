@@ -1,6 +1,6 @@
 {
   "name": "score-cli",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The score command line interface.",
   "author": "Doron Sharon",
   "homepage": "http://openscore.io",
@@ -20,7 +20,7 @@
     "openscore"
   ],
   "bin": {
-    "score": "score/slang/bin/slang"
+    "slang": "score/slang/bin/slang"
   },
   "license": "Apache-2.0",
   "engines": {
