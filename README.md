@@ -1,4 +1,7 @@
-# score-cli
+# score-cli 
+
+<img align="right" src="http://www.openscore.io/images/logos/score_logo_50x50.b6824b20.png">
+
 > The score command line interface.
 
 Install this globally and you'll have access to the `slang` command anywhere on your system.
