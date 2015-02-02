@@ -1,6 +1,6 @@
 {
   "name": "score-cli",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "The score command line interface.",
   "author": "Doron Sharon",
   "homepage": "http://openscore.io",
@@ -24,7 +24,7 @@
   },
   "license": "Apache-2.0",
   "engines": {
-        "node": ">=0.10.35",
+        "node": ">=0.8.0",
         "npm": ">=2.1.17"
   },
   "preferGlobal": true,
