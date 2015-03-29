@@ -1,7 +1,7 @@
 {
   "name": "cslang-cli",
   "version": "1.0.10",
-  "description": "The cloud slang command line interface.",
+  "description": "The CloudSlang command line interface.",
   "author": "Doron Sharon",
   "homepage": "http://cloudslang.io",
   "main": "index.js",

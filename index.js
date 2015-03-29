@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 
-console.log("Getting cloud slang... it might take a while...");
+console.log("Getting CloudSlang... it might take a while...");
 
 var fs = require("fs");
 var request = require("request");
