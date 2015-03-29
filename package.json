@@ -20,7 +20,7 @@
     "cloudslang"
   ],
   "bin": {
-    "csslang": "cslang/slang/bin/slang"
+    "cslang": "cslang/slang/bin/slang"
   },
   "license": "Apache-2.0",
   "engines": {
