@@ -13,7 +13,7 @@ npm install -g cslang-cli
 Now you can just use the `cslang` command anywhere
 
 ```shell
-slang
+cslang
 ```
 
 Refer to [CloudSlang](http://cloudslang.io) website for more information.
