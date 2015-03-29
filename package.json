@@ -1,26 +1,26 @@
 {
-  "name": "score-cli",
+  "name": "cslang-cli",
   "version": "1.0.10",
-  "description": "The score command line interface.",
+  "description": "The cloud slang command line interface.",
   "author": "Doron Sharon",
-  "homepage": "http://openscore.io",
+  "homepage": "http://cloudslang.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dorsha/score-cli.git"
+    "url": "https://github.com/dorsha/cslang-cli.git"
   },
   "keywords": [
-    "score",
+    "slang",
     "cli",
     "command-line",
     "slang",
-    "openscore"
+    "cloudslang"
   ],
   "bin": {
-    "slang": "score/slang/bin/slang"
+    "slang": "cslang/slang/bin/slang"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -29,7 +29,7 @@
   },
   "preferGlobal": true,
   "bugs": {
-    "url": "https://github.com/dorsha/score-cli/issues"
+    "url": "https://github.com/dorsha/cslang-cli/issues"
   },
   "dependencies": {
 	"request": "*",
