@@ -1,6 +1,6 @@
 # cslang-cli
 
-<img align="right" src="http://www.openscore.io/images/logos/score_logo_50x50.b6824b20.png">
+<img align="right" src="http://www.cloudslang.io/images/logos/CloudSlang_logo.84128a6d.png">
 
 > The CloudSlang command line interface.
 
